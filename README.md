@@ -61,18 +61,29 @@ Design and implement a Finite State Machine (FSM) that can model and control a s
 14.**Programming languages**:
 
    C
+   
    C++
+   
    Python
+   
    Java
+   
    MATLAB
+   
 15.**Hardware description languages**:
 
    VHDL (VHSIC-HDL)
+   
    Verilog
+   
    SystemC
+   
 16.**Simulation tools**:
 
    ModelSim
+   
    QuestaSim
+   
    Vivado Simulator
+   
    Simulink
