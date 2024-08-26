@@ -27,9 +27,13 @@ OVERVIEW OF THE PROJECT
 Design and implement a Finite State Machine (FSM) that can model and control a specific system or process, such as:
 
   A vending machine
+  
   A traffic light controller
+  
   A digital clock
+  
   A robotic arm
+  
 **Key Activities**:
 
  1.Requirements gathering: Define project scope, goals, and deliverables.
